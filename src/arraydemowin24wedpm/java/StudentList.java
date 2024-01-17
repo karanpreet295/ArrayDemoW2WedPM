@@ -6,7 +6,6 @@ package arraydemowin24wedpm.java;
 
 /**
  *Modified on Jan 17th at 2:28PM by karan
- * Modified for third commit
  * @author karan
  */
 public class StudentList {
