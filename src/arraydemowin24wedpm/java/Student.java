@@ -8,6 +8,7 @@ package arraydemowin24wedpm.java;
 *added comments for PULL
  *added few comments on 24 jan at 1:53PM
  * @author karan
+ * added comments for fetch and merge
  */
 public class Student {
     private int sID;
